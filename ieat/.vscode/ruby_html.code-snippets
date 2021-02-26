@@ -1,0 +1,40 @@
+{
+  "display value": {
+    "scope": "ruby, html, erb",
+    "prefix": "r-value-html",
+    "body": [
+      "<%= ${1:value} %>",
+    ],
+    "description": "extract value"
+  },
+  "if template": {
+    "scope": "ruby, html, erb",
+    "prefix": "r-if-html",
+    "body": [
+      "<%if ${1:condition}? %>",
+      "\t",
+      "<% end %>"
+    ],
+    "description": "template to if in html ruby"
+  },
+  "action template": {
+    "scope": "ruby, html, erb",
+    "prefix": "r-action",
+    "body": [
+      "<% ${1:action} %>",
+      "\t",
+      "<% end %>"
+    ],
+    "description": "template to if in html ruby"
+  },
+  "each template": {
+    "scope": "ruby, html, erb",
+    "prefix": "r-each",
+    "body": [
+      "<% ${1:list}.each do |${2:item}| %>",
+      "\t",
+      "<% end %>"
+    ],
+    "description": "template to if in html ruby"
+  }
+}
