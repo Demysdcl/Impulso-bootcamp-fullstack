@@ -1,6 +1,6 @@
 # impulse-bootcamp
 
-Boostcamp Impulso Fullstack
+Boostcamp Impulso Full-stack
 
 ## Include
 
