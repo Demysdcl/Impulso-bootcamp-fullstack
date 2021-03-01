@@ -1,4 +1,4 @@
-# Github :rocket
+# Github 🚀
 
 ## Concepts
 
@@ -6,8 +6,8 @@ SHA = Secure Hash Algorithm
 
 ## Objects
 
-Blobs   -> Informations about file
-Trees   -> Stores a blobs
+Blobs -> Informations about file
+Trees -> Stores a blobs
 Commits -> Information about trees and blobs
 
 ## First Commands
@@ -30,7 +30,3 @@ untracked
 unmodified
 modified
 stage
-
-
- 
-
