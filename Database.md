@@ -279,3 +279,14 @@ WITH params as (
 SELECT number, name
 from tbl_tmp_bank;
 ```
+
+## Functions
+
+Set of codes that are executed within a transaction with the function of facilitating programming and obtaining the reuse of code.
+
+Types:
+
+- query language functions
+- procedural language functions
+- internal functions
+- C-language functions
